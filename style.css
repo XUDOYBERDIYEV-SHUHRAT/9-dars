@@ -1,0 +1,293 @@
+ @import url('https://fonts.googleapis.com/css2?family=Kodchasan:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kodchasan',sans-serif;
+}
+
+.main{
+    margin: 0 auto;
+    width: 1600px;
+    background-color:  #F5F5F5;;
+}
+
+nav{
+    width: 100%;
+    display: flex;
+    padding: 30px 0px;
+}
+
+nav > img{
+    margin-left: 227px;
+}
+
+nav > a{
+    font-size: 18px;
+    margin-left: 40px;
+    text-decoration: none;
+    color:#000000;
+    font-family: 'Kodchasan',sans-serif;
+}
+
+.ja{
+    margin-left: 775px;
+}
+
+.ha{
+    width: 1500px;
+    height: 865px;
+    background-color: #FF9D2D;
+    border-radius: 30px;
+    margin-left: 50px;
+    display: flex;
+}
+
+.ha__block-1{
+    width: 658px;
+    padding-left: 177px;
+}
+
+.ha__block-1 > h1{
+    font-size: 100px;
+}
+
+.ha__block-1__text1{
+    margin-top: 182px;
+   
+}
+
+.ha__block-1__text2{
+ margin-top: 10px;
+ 
+}
+
+.block-1__block-1{
+    display: flex;
+}
+
+.block-1__block-1 > h1{
+    font-size: 100px;
+    margin-left: 100px;
+}
+
+.daun{
+    display: flex;
+    gap: 50px;
+}
+
+.sad{
+    border: 1px solid black;
+    width: 180px;
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 88px;
+}
+
+.sad:hover{
+    background-color: #000000;
+    color: #F5F5F5;
+}
+
+.los{
+        width: 686px;
+        height: 650px;
+        margin-top: 100px;
+        margin-left: 140px;
+}
+
+.ern{
+    height: 162px;
+    width: 1140px;
+    margin-top: 130px;
+    margin-left: 228px  ;
+}
+
+.ern > h2{
+    font-size: 45px;
+    color: #000000;
+}
+
+.qara{
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.qara1{
+    margin-left: 0px;
+}
+
+.old{
+    width: 1410px;
+    height: 785px;
+    margin-top: 130px;
+    display: flex;
+}
+
+.old > img{
+    margin-top: 75px;
+    margin-left: 175px;
+    width: 424px;
+    height: 543px;
+}
+
+.ikki{
+    margin-left: 260px;
+    width: 550px;
+}
+
+.ikki > h3{
+    margin-top: 205px;
+    font-size: 45px;
+}
+
+.ikki > p{
+    font-size: 22px;
+    margin-top: 30px;
+    margin-bottom: 65px;
+}
+
+.ikki > span{
+    border: 1px solid black;
+    width: 184px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 88px;
+}
+
+.ikki > span:hover{
+    background-color: 
+    #E58311;
+    color: #F5F5F5;
+}
+
+.sara{
+    display: flex;
+}
+
+.new{
+    width: 1380px;
+    height: 600px;
+    margin-left: 111px;
+    margin-top: 100px;
+}
+
+.new > h3{
+    font-size: 45px;
+    width: 540px;
+}
+
+.new > p{
+    font-size: 22px;
+    margin-top: 30px;
+    width: 516px;
+}
+
+.jar{
+    border: 1px solid black;
+    width: 184px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 65px;
+}
+
+.jar:hover{
+    background-color: 
+    #E58311;
+    color: #F5F5F5;
+}
+
+.images{
+    height: 440px;
+    margin-top: 60px;
+    margin-right: 334px;
+}
+
+.mayin{
+    width: 1146px;
+    height: 427px;
+    
+    margin-left: 227px;
+}
+
+.mayin > h3{
+    font-size: 72px;
+}
+
+.kal{
+    display: flex;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.mayin > a{
+    margin-left: 1086px;
+    color: #E58211;
+    font-size: 18px;
+}
+.hala{
+    width: 558px;
+    height: 305px;
+    background-color: #f4e7d9;
+    
+    display: flex;
+}
+
+.salom{
+    font-size: 28px;
+    margin-top: 45px;
+    margin-left: 30px;
+}
+
+.salom1{
+    width: 302px;
+    font-size: 16px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.jar2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.bic{
+    margin-left: -50px;
+    margin-top: 30px;
+}
+
+.cala{
+    margin-left: 61px;
+}
+
+.vala{
+    width: 100%;
+    height: 137px;
+    background-color: #FF9D2D;
+    margin-top: 150px;
+    display: flex;
+}
+
+.vala > img{
+    margin-top: 54px;
+    margin-left: 230px;
+    width: 66px;
+    height: 28px;
+}
+
+.vala > span{
+    width: 269px;
+    margin-top: 45px;
+    margin-left: 50px;
+    font-size: 14px;
+}
+
+
+
